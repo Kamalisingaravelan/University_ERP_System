@@ -58,6 +58,10 @@ It supports various user roles such as **Admin**, **Faculty**, **Librarian**, an
 - book_issues	Records **books issued, due dates, and fines	issue_id (PK), member_id (FK)**
 - admin	Stores admin credentials and configuration data	**admin_id (PK)**
 
+## **Project Structure**
+<img width="541" height="1336" alt="image" src="https://github.com/user-attachments/assets/56e1d400-bf94-4527-ad59-eeb54dc6b7e7" />
+
+
 ## Future Enhancements
 
 - **Web-based Interface**: Upgrade console application into a Spring Boot + React full-stack system
