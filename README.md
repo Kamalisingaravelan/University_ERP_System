@@ -59,7 +59,17 @@ It supports various user roles such as **Admin**, **Faculty**, **Librarian**, an
 - admin	Stores admin credentials and configuration data	**admin_id (PK)**
 
 ## **Project Structure**
-<img width="541" height="1336" alt="image" src="https://github.com/user-attachments/assets/56e1d400-bf94-4527-ad59-eeb54dc6b7e7" />
+<img width="304" height="678" alt="image" src="https://github.com/user-attachments/assets/77c32ca0-57bc-439c-9be6-3686ccd481ec" /> <img width="320" height="633" alt="image" src="https://github.com/user-attachments/assets/8bcd27f1-67fc-4d74-8175-56d11e781401" />
+
+### **ER Diagram**
+<img width="716" height="761" alt="image" src="https://github.com/user-attachments/assets/5d8fb987-b303-40aa-9dcf-1ee2ceb4a3ac" />
+
+### **Sample Input & Output**
+<img width="690" height="265" alt="image" src="https://github.com/user-attachments/assets/a8ff4c97-41b1-485b-b749-8fa3fe0b57c7" />
+<img width="644" height="209" alt="image" src="https://github.com/user-attachments/assets/2aca20ec-1bbb-42ff-9914-609dd4e44927" />
+<img width="654" height="314" alt="image" src="https://github.com/user-attachments/assets/1d8e2772-88a2-4034-8703-18a161632786" />
+<img width="680" height="250" alt="image" src="https://github.com/user-attachments/assets/b63eb3c6-804d-48a4-a399-7050dc26316d" />
+<img width="533" height="272" alt="image" src="https://github.com/user-attachments/assets/1ce79a77-21df-481d-b023-0a58a3aec37a" />
 
 
 ## Future Enhancements
